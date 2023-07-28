@@ -1,3 +1,0 @@
-// Use this to delete a number of products from the cart
-    @FindBy(how = How.XPATH, using = "//td/input[@type='checkbox' and not(@value='3429135')]")
-    public static List<WebElement> NotAllCheckBoxes;
